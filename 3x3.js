@@ -61,3 +61,11 @@ function handleClick(e) {
       return cell.classList.contains(X_CLASS) || cell.classList.contains(CIRCLE_CLASS)
     })
   }
+  
+function placeMark(cell, currentClass) {
+    cell.classList.add(currentClass)
+  }
+  
+  function swapTurns() {
+    circleTurn = !circleTurn
+  }
