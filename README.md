@@ -20,3 +20,5 @@ Further Future -
 - create a two-player 4x4 and 5x5 version of this game that can run in the same window and be selected via interactive button to give players a wider variety to play with
 - create an A.I. that will play as one player to allow this 3x3 version and future versions to be playable with one person
 - create an interactive color selector that will allow players to choose which color their side uses
+
+Current Version of this game (2/1/23) contains no bugs.
