@@ -11,7 +11,7 @@ Out of the three types of code listed below I am least confident in my CSS abili
 #### JavaScript - 
 - array creation/usage, function creation/usage, if/else statements, DOM manipulation, interpolation, arrow functions, return statements
 #### CSS -
-- nthchild mechanics to condense code, use of ::before and ::after to specifically place css content, use of calc and var to adjust the games visuals as needed depending on which browser the player is using
+- nthchild mechanics to condense code, use of ::before and ::after to specifically place css content, use of calc and var to adjust the games visuals as needed depending on which browser the player is using (works on mobile)
 
 ## Future Goals:
 
