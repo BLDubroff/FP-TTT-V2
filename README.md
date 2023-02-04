@@ -6,11 +6,11 @@ Out of the three types of code listed below I am least confident in my CSS abili
 
 
 ## Technological Contents:
-#### HTML 
+#### HTML -
 - divs and data cells along with a functional pop-up, overlay winners message
-#### JavaScript  
+#### JavaScript - 
 - array creation/usage, function creation/usage, if/else statements, DOM manipulation, interpolation, arrow functions, return statements
-#### CSS 
+#### CSS -
 - nthchild mechanics to condense code, use of ::before and ::after to specifically place css content, use of calc and var to adjust the games visuals as needed depending on which browser the player is using
 
 ## Future Goals:
@@ -24,3 +24,5 @@ Out of the three types of code listed below I am least confident in my CSS abili
 - create an A.I. that will play as one player to allow this 3x3 version and future versions to be playable with one person
 - create an interactive color selector that will allow players to choose which color their side uses
 
+#### Conclusion:
+- Truth be told, at the end of the day this is a relatively simple project at this time (2/4/2023). But my goal wasn't complexity. My goal was to create something functional that not only worked consistently well but looked clean while it did so. I will continue to make adjustments and alterations to this project as my knowledge of the subject and skill set increases and I encourage anyone who comes accross this to do the same. Thank you for reading.
