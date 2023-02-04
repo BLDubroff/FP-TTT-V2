@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-Out of the three types of code listed below I am least confident in my CSS abilities so that is what I wanted the focus of this project to be. I knew that I was capable of creating many different games that would easily run in the console but being able to create something in JS and then translate/connect it to HTML and CSS was an entirely different story, so I decided to create a simple game and let the CSS be the star of the show.
+Out of the three types of code listed below I am least confident in my CSS abilities so that is what I wanted the focus of this project to be. I knew that I was capable of creating many different games that would easily run in the console but being able to create something in JS and then translate/connect it to HTML and CSS was an entirely different story, so I decided to create a simple game and let the CSS be the star of the show. To be more specific I want the interactive CSS to be the star of the show. Things such has hovering mechanics and winning message pop-ups, as those things have been the hardest for me to understand on a fundamental level.
 
 
 ## Technological Contents:
